@@ -47,7 +47,7 @@ The system supports booking, cancellation, bus availability checking, and passen
 
 ## 📁 **Project Structure**
 
-
+```
 Bus_System/
 │
 ├── buses.csv
@@ -71,7 +71,7 @@ Bus_System/
 │       └── ui/
 │           └── BusReservationUI.java
 
-
+```
 ## ▶️ **How to Run**
 
 1. Install **Java JDK 8+**
