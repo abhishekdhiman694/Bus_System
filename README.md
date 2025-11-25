@@ -106,21 +106,3 @@ Files:
 
 Reads and writes bus and booking data to CSV files using file handling.
 File: `FileService.java`
-
-
-## 📜 **License**
-
-MIT License – Free to use and modify
-
-## ❤️ **Conclusion**
-
-This Bus Booking & Management System is a complete Java Swing application demonstrating **OOP**, **file handling**, and **service-based architecture**, built collaboratively by our team.
-
-
-If you want, I can also prepare:
-✅ GitHub repo description
-✅ Repository tags
-✅ Commit message templates
-✅ Folder naming suggestions
-
-Just tell me!
